@@ -31,12 +31,12 @@ Foram utilizadas as seguintes ferramentas:
 
 ```bash
 # Clonar o repositório
-$ https://github.com/EwertonOliveirax/Barbearia-Alura.git
+$ # Clonar o repositório
+$ https://github.com/EwertonOliveirax/Barbearia-Alura"
 ````
 ---
 
 ## 🏷Author
 
-Made with love  💜 by José Ulombe 
-- [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
-- [Twitter](https://twitter.com/jose_ulombe)
+Made with love  💜 by Ewerton Oliveira 
+- [Linkedin](linkedin.com/in/ewerton-oliveira-leite-90b272205)
