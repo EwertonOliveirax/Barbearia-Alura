@@ -36,5 +36,4 @@ $ https://github.com/EwertonOliveirax/Barbearia-Alura"
 ## 🏷Author
 
 Made with love  💜 by Ewerton Oliveira 
-- [Linkedin](https://www.linkedin.com/in/ewerton-oliveira-leite-90b272205/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9HvR2IEeQ4ir8cBIxmThcQ%3D%3D
-)
+- [Linkedin] https://www.linkedin.com/in/ewerton-oliveira-leite-90b272205/
